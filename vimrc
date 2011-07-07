@@ -29,8 +29,6 @@ source ~/.vim/modules/haskell.vim
 source ~/.vim/modules/hoogle.vim
 " == Unite module
 source ~/.vim/modules/unite.vim
-" == Rainbow Parentheses module
-source ~/.vim/modules/rainbowparentheses.vim
 " == Nerd Tree module
 source ~/.vim/modules/nerdtree.vim
 " == Yankring module
